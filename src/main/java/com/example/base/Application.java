@@ -1,11 +1,12 @@
 package com.example.base;
 
 import com.example.base.node.CommonPart;
+import com.example.base.node.Palindrome;
 
 public class Application {
     public static void main(String[] args) {
         /*.....*/
-        CommonPart.commonPart();
+        Palindrome.palindrome();
     }
     /**
      *       时间           空间      稳定性
