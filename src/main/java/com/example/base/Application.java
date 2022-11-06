@@ -1,12 +1,13 @@
 package com.example.base;
 
 import com.example.base.node.CommonPart;
+import com.example.base.node.Intersect;
 import com.example.base.node.Palindrome;
 
 public class Application {
     public static void main(String[] args) {
         /*.....*/
-        Palindrome.palindrome();
+        Intersect.intersect();
     }
     /**
      *       时间           空间      稳定性
