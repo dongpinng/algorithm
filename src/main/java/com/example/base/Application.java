@@ -3,11 +3,12 @@ package com.example.base;
 import com.example.base.node.CommonPart;
 import com.example.base.node.Intersect;
 import com.example.base.node.Palindrome;
+import com.example.base.tree.BinaryTree;
 
 public class Application {
     public static void main(String[] args) {
         /*.....*/
-        Intersect.intersect();
+        BinaryTree.binaryTree();
     }
     /**
      *       时间           空间      稳定性

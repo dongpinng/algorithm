@@ -8,4 +8,8 @@ public class TreeNode {
     public TreeNode(int value) {
         this.value = value;
     }
+
+    public int getValue() {
+        return value;
+    }
 }
